@@ -21,7 +21,7 @@ repository               : "arthurliyaze/arthurliyaze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "site-logo.png"
+  avatar           : "yaze.png"
   name             : "Yaze Li"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Ph.D. in Electrical Engineering"
