@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* August 2015 - July 2023: Graduate Assistant
-  * [University of Arkansas](https://www.uark.edu/)
+* August 2015 - July 2023: Graduate Assistant in [University of Arkansas](https://www.uark.edu/) under:
   * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/)
   * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/)
   * Supervisor: [Jingxian Wu](https://wuj.hosted.uark.edu/)
