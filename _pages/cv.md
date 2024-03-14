@@ -44,7 +44,7 @@ Publications
   
 Other Scholarly Outputs
 ======
-* Energy Storage & Stationary Battery Committee [Poster]() Session for IEEE PESGM 2019.
+* Energy Storage & Stationary Battery Committee [Poster]() Session for IEEE Power & Energy Society General Meeting (PESGM) 2019.
   
 Teaching
 ======
