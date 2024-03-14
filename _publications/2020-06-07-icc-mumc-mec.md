@@ -1,5 +1,5 @@
 ---
-title: "Multi-user multi-channel computation offloading and resource allocation for mobile edge computing"
+title: "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing"
 collection: publications
 permalink: /publication/2020-06-07-icc-mumc-mec
 excerpt: 'The problem of computation offloading and resourceallocation in multi-user multi-channel mobile edge computing (MEC) systems is to minimize a cost function that is expressed as a weighted sum of energy consumption, delay, and deadline penalty of all user equipments (UEs). A Deep Reinforcement Learning approach known as Deep Deterministic Policy Gradient (DDPG) is applied.'
