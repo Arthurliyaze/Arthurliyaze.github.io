@@ -42,14 +42,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Other Scholarly Outputs
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Energy Storage & Stationary Battery Committee [Poster]() Session for IEEE PESGM 2019.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for ELEG 5693 Wireless Communication, 2020 Spring
+* Teaching Assistant for ELEG 4603/5173L Digital Signal Processing, 2021 Spring
+* Teaching Assistant for ELEG 3124 Systems and Signals, 2021 Fall
