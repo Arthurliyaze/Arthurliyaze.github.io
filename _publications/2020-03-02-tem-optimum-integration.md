@@ -1,5 +1,5 @@
 ---
-title: "Optimum integration of solar energy with battery energy storage systems"
+title: "Optimum Integration of Solar Energy With Battery Energy Storage Systems"
 collection: publications
 permalink: /publication/2020-03-02-tem-optimum-integration
 excerpt: 'The entire life cycles of solar panels and BESS of the order of ten years or longer, makes the complexity of MILP
