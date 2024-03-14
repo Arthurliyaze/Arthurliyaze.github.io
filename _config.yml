@@ -21,9 +21,9 @@ repository               : "Arthurliyaze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/yaze.jpg"
-  name             : "Yaze Li (test)"
-  pronouns         : "he/his" # example: "she/her"  
+  name             : "Yaze Li"
+  avatar           : "yaze.jpg"
+  #pronouns         : "he/his" # example: "she/her"  
   bio              : "Ph.D. in Electrical Engineering"
   location         : "Burnaby, BC"
   employer         : #"Red Brick University"
