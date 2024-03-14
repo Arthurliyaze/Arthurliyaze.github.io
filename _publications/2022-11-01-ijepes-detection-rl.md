@@ -14,8 +14,7 @@ learning,” International Journal of Electrical Power & Energy Systems, vol.
 142, p. 108265, 2022.'
 ---
 
-the algorithm
-is developed by using a non-linear dynamic AC system model
+The algorithm is developed by using a non-linear dynamic AC system model
 with an extended Kalman filter (EKF) to capture power grid
 state transitions in real-time, while many other works in the
 literature use a simplified linear DC model. The DRL detection
