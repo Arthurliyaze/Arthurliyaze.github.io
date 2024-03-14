@@ -1,12 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "Optimum integration of solar energy with battery energy storage systems"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-03-02-tem-optimum-integration
+excerpt: 'The entire life cycles of solar panels and BESS of the order of ten years or longer, makes the complexity of MILP
+very high. A dynamic programming approach is given in this paper.'
+date: 2020-03-02
+venue: 'IEEE Transactions on Engineering Management'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9019606'
+citation: 'Y. Li and J. Wu, “Optimum integration of solar energy with battery energy storage
+systems,” IEEE Transactions on Engineering Management, 2020.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+To capture the impacts of long-term factors such as aging
+effects, inflation, and discounted economic returns, the complexity of
+MILP is high due to the long time horizon. A new low-complexity
+algorithm is then proposed by using dynamic programming, where
+it is shown that the MINLP problem can be transformed into one
+that satisfies Bellman’s principal of optimality.
