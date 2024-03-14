@@ -43,7 +43,7 @@ Publications
   
 Other Scholarly Outputs
 ======
-* Energy Storage & Stationary Battery Committee [Poster](https://github.com/Arthurliyaze/Arthurliyaze.github.io/files/poster.pdf) Session for IEEE Power & Energy Society General Meeting (PESGM) 2019.
+* Energy Storage & Stationary Battery Committee [Poster](https://github.com/Arthurliyaze/Arthurliyaze.github.io/blob/master/files/poster.pdf) Session for IEEE Power & Energy Society General Meeting (PESGM) 2019.
   
 Teaching
 ======
