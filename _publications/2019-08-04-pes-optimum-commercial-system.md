@@ -9,4 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/8973467'
 citation: 'Y. Li and J. Wu, “Optimum design of battery-assisted photo-voltaic energy system for a commercial application,” in 2019 IEEE Power & Energy Society General Meeting (PESGM). IEEE, 2019.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The optimum designs are performed by considering the overall cost of the PV system, which usually accounts for a big amount of initial investment, and the aging effects of batteries and solar panels. Practical considerations, such as calendar aging and cycling aging of batteries, inflation of utility cost, and interest rates for investments required for system construction, are considered in the study. A proof of transforming the MINLP problem to a MILP si given.
