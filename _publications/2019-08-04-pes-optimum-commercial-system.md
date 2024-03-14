@@ -1,5 +1,5 @@
 ---
-title: "Optimum design of battery-assisted photo-voltaic energy system for a commercial application"
+title: "Optimum Design of Battery-Assisted Photo-Voltaic Energy System for a Commercial Application"
 collection: publications
 permalink: /publication/2019-08-04-pes-optimum-commercial-system
 excerpt: 'Before commercial users purchase and install the PV system, do they have an idea of how much to spend on it? And what is the break even point of the system? This short paper models this optimization problem.'
