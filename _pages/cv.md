@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can also find and download my [CV in PDF](files/CV.pdf).
+You can also find and download my [CV in PDF](https://github.com/Arthurliyaze/Arthurliyaze.github.io/blob/master/files/CV.pdf).
 
 Education
 ======
@@ -43,7 +43,7 @@ Publications
   
 Other Scholarly Outputs
 ======
-* Energy Storage & Stationary Battery Committee <u><a href="https://github.com/Arthurliyaze/Arthurliyaze.github.io/blob/master/files/poster.pdf">Poster</a></u> Session for IEEE Power & Energy Society General Meeting (PESGM) 2019.
+* Energy Storage & Stationary Battery Committee [Poster](https://github.com/Arthurliyaze/Arthurliyaze.github.io/blob/master/files/poster.pdf) Session for IEEE Power & Energy Society General Meeting (PESGM) 2019.
   
 Teaching
 ======
