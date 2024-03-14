@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php), [University of Arkansas](https://www.uark.edu/), 2023
+* B.S. in [Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2015 - July 2023: Graduate Assistant
+  * [University of Arkansas](https://www.uark.edu/)
+  * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/)
+  * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/)
+  * Supervisor: [Jingxian Wu](https://wuj.hosted.uark.edu/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * MATLAB
+* Statistics
+  * Time Series Analysis
+  * Detection and estimation
+* Reinforcement Learning
+  * Markov Decision Processes
+  * Tensorflow
+  * PyTorch
 
 Publications
 ======
