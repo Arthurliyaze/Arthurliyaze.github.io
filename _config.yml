@@ -12,7 +12,7 @@ title                    : "Yaze Li"
 title_separator          : "-"
 name                     : &name "Yaze Li"
 description              : &description "Ph.D. in Electrical Engineering"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://arthurliyaze.github.io"
+url                      : https://arthurliyaze.github.io # the base hostname & protocol for your site e.g. "https://arthurliyaze.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Arthurliyaze/Arthurliyaze.github.io"
 
@@ -21,7 +21,7 @@ repository               : "Arthurliyaze/Arthurliyaze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yaze.png"
+  avatar           : "yaze.jpg"
   name             : "Yaze Li"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Ph.D. in Electrical Engineering"
