@@ -1,5 +1,5 @@
 ---
-title: "Low latency cyberattack detection in smart grids with deep reinforcement learning"
+title: "Low Latency Cyberattack Detection in Smart Grids with Deep Reinforcement Learning"
 collection: publications
 permalink: /publication/2022-11-01-ijepes-detection-rl
 excerpt: 'Traditional detection methods of cyberattacks in smart grids focus mainly
