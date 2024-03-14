@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * August 2015 - July 2023: Graduate Assistant in [University of Arkansas](https://www.uark.edu/) under:
-  * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/)
-  * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/)
+  * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/) [Github](https://github.com/Arthurliyaze/Optimum-Power-Schedule)
+  * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/) [Github](https://github.com/Arthurliyaze/Quick-Detection)
   * Supervisor: [Jingxian Wu](https://wuj.hosted.uark.edu/)
   
 Skills
