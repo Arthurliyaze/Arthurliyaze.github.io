@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php) from the University of Arkansas. My passion lies in dedicating myself to advancing mathematical knowledge and engineering skills, with a focus on applying them to address real-world challenges, particularly within the realms of electrical engineering and finance.
+I am a Power System Engineer at [CF Power Ltd.](https://www.cfpowerltd.com/). I earned my Ph.D. in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php) from the University of Arkansas. My passion lies in dedicating myself to advancing mathematical knowledge and engineering skills, with a focus on applying them to address real-world challenges, particularly within the realms of electrical engineering.
 
 
 ## My work and research
+My work centers on transfor limit analysis of renewable energy integration using [PSS®E](https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software/pss-e.html) and [TARA](https://www.power-gem.com/TARA.html).
 My Ph.D. research centers on advancing renewable energy integration within Smart Grids through two primary avenues: optimizing the real-time scheduling of energy sources within the grid and rapidly detecting potential attacks on the grid's infrastructure. Leveraging statistical inference and deep reinforcement learning algorithms, I've developed innovative optimization and detection methodologies, which have been published in multiple peer-reviewed conferences and journals.
 
 ## My background and history
