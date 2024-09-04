@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yaze Li"
+title                    : "Carrot's Pit"
 title_separator          : "-"
-name                     : &name "Yaze Li"
-description              : &description "Ph.D. in Electrical Engineering"
+name                     : &name "Yaze (Arthur) Li"
+description              : &description "Power System Engineer | Ph.D. in Electrical Engineering"
 url                      : https://Arthurliyaze.github.io # the base hostname & protocol for your site e.g. "https://arthurliyaze.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Arthurliyaze.github.io"
@@ -21,12 +21,12 @@ repository               : "Arthurliyaze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "Yaze Li"
+  name             : "Yaze (Arthur) Li"
   avatar           : "yaze.jpg"
   #pronouns         : "he/his" # example: "she/her"  
-  bio              : "Ph.D. in Electrical Engineering"
-  location         : "Burnaby, BC"
-  employer         : #"Red Brick University"
+  bio              : "Power System Engineer | Ph.D. in Electrical Engineering"
+  location         : "Calgary, AB"
+  employer         : "CF Power Ltd."
   uri              : # URL
   email            : "arthurliyaze@gmail.com" 
 
