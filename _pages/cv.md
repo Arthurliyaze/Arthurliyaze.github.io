@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* August 2024 - Now: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
+* August 2025 - Now: Manager in [E Source - Grid Engineering and Interconnection](https://www.esource.com/grid-solutions)
+* August 2024 - August 2025: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
 * August 2015 - July 2023: Graduate Assistant in [University of Arkansas](https://www.uark.edu/) under:
   * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/) [[Github]](https://github.com/Arthurliyaze/Optimum-Power-Schedule)
   * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/) [[Github]](https://github.com/Arthurliyaze/Quick-Detection)
@@ -28,6 +29,8 @@ Skills
 * Engineering Software
   * PSSE
   * TARA
+  * PSAT & TSAT
+  * Aspen OneLiner
 * Programming
   * Python
   * MATLAB
