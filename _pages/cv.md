@@ -8,7 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can also find and download my [CV in PDF](https://github.com/Arthurliyaze/Arthurliyaze.github.io/blob/master/files/CV.pdf).
+
+<p>
+  <a href="{{ base_path }}/files/CV.pdf" target="_blank" rel="noopener">Open CV as PDF</a>
+  |
+  <a href="{{ base_path }}/files/CV.pdf" download>Download CV</a>
+</p>
+
+<object data="{{ base_path }}/files/CV.pdf" type="application/pdf" width="100%" height="900">
+  <p>Your browser cannot preview PDFs inline. Use the links above to open or download the CV.</p>
+</object>
 
 Education
 ======
@@ -17,8 +26,7 @@ Education
 
 Work experience
 ======
-* August 2025 - Now: Manager in [E Source - Grid Engineering and Interconnection](https://www.esource.com/grid-solutions)
-* August 2024 - August 2025: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
+* August 2024 - Now: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
 * August 2015 - July 2023: Graduate Assistant in [University of Arkansas](https://www.uark.edu/) under:
   * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/) [[Github]](https://github.com/Arthurliyaze/Optimum-Power-Schedule)
   * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/) [[Github]](https://github.com/Arthurliyaze/Quick-Detection)
@@ -29,8 +37,6 @@ Skills
 * Engineering Software
   * PSSE
   * TARA
-  * PSAT & TSAT
-  * Aspen OneLiner
 * Programming
   * Python
   * MATLAB
