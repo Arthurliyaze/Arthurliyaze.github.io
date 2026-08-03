@@ -58,7 +58,7 @@ Teaching
 
 CV PDF
 ======
-<iframe src="{{ base_path }}/files/CV.pdf" width="100%" height="700" style="border: 0; height: 70vh; max-height: 700px; min-height: 420px;">
+<iframe src="{{ base_path }}/files/CV.pdf" width="100%" height="560" style="border: 0; height: 56vh; max-height: 560px; min-height: 420px;">
 </iframe>
 
 <p>If the preview does not load correctly in your browser, open <a href="{{ base_path }}/files/CV.pdf" target="_blank" rel="noopener">the PDF directly</a>.</p>
