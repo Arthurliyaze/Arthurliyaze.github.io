@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
-  <a href="{{ base_path }}/files/CV.pdf" target="_blank" rel="noopener">Open CV as PDF</a>
-  |
-  <a href="{{ base_path }}/files/CV.pdf" download>Download CV</a>
-</p>
-
-<object data="{{ base_path }}/files/CV.pdf" type="application/pdf" width="100%" height="900">
-  <p>Your browser cannot preview PDFs inline. Use the links above to open or download the CV.</p>
-</object>
-
 Education
 ======
 * Ph.D in [Electrical Engineering](https://electrical-engineering.uark.edu/index.php), [University of Arkansas](https://www.uark.edu/), 2023
@@ -26,7 +16,8 @@ Education
 
 Work experience
 ======
-* August 2024 - Now: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
+* August 2025 - Now: Manager in [E Source - Grid Engineering and Interconnection](https://www.esource.com/grid-solutions).
+* August 2024 - August 2025: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
 * August 2015 - July 2023: Graduate Assistant in [University of Arkansas](https://www.uark.edu/) under:
   * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/) [[Github]](https://github.com/Arthurliyaze/Optimum-Power-Schedule)
   * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/) [[Github]](https://github.com/Arthurliyaze/Quick-Detection)
@@ -37,6 +28,8 @@ Skills
 * Engineering Software
   * PSSE
   * TARA
+  * PSAT/TSAT
+  * Aspen OneLiner
 * Programming
   * Python
   * MATLAB
@@ -63,3 +56,9 @@ Teaching
 * Teaching Assistant for ELEG 5693 Wireless Communication, 2020 Spring
 * Teaching Assistant for ELEG 4603/5173L Digital Signal Processing, 2021 Spring
 * Teaching Assistant for ELEG 3124 Systems and Signals, 2021 Fall
+
+CV PDF
+======
+<embed src="{{ base_path }}/files/cv.pdf#toolbar=1&navpanes=0" type="application/pdf" width="100%" height="560" style="height: 56vh; max-height: 560px; min-height: 420px;">
+
+<p>If the preview does not load correctly in your browser, open <a href="https://arthurliyaze.github.io/files/cv.pdf" target="_blank" rel="noopener">the PDF directly</a>.</p>
