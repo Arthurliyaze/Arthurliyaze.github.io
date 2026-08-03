@@ -27,6 +27,8 @@ Skills
 * Engineering Software
   * PSSE
   * TARA
+  * PSAT/TSAT
+  * Aspen OneLiner
 * Programming
   * Python
   * MATLAB
