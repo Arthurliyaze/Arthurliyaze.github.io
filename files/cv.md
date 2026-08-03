@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* August 2024 - Now: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
+* August 2025 - Now: Manager in [E Source - Grid Engineering and Interconnection](https://www.esource.com/grid-solutions).
+* August 2024 - August 2025: Power system engineer in [CF Power Ltd.](https://www.cfpowerltd.com/)
 * August 2015 - July 2023: Graduate Assistant in [University of Arkansas](https://www.uark.edu/) under:
   * [Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)](https://seeds.uapower.group/about/) [[Github]](https://github.com/Arthurliyaze/Optimum-Power-Schedule)
   * [Center for Infrastructure Trustworthiness in Energy Systems (CITES)](https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites/) [[Github]](https://github.com/Arthurliyaze/Quick-Detection)
@@ -58,7 +59,6 @@ Teaching
 
 CV PDF
 ======
-<iframe src="{{ base_path }}/files/CV.pdf" width="100%" height="560" style="border: 0; height: 56vh; max-height: 560px; min-height: 420px;">
-</iframe>
+<embed src="{{ base_path }}/files/CV.pdf#toolbar=1&navpanes=0" type="application/pdf" width="100%" height="560" style="height: 56vh; max-height: 560px; min-height: 420px;">
 
-<p>If the preview does not load correctly in your browser, open <a href="{{ base_path }}/files/CV.pdf" target="_blank" rel="noopener">the PDF directly</a>.</p>
+<p>If the preview does not load correctly in your browser, open <a href="https://arthurliyaze.github.io/files/CV.pdf" target="_blank" rel="noopener">the PDF directly</a>.</p>
