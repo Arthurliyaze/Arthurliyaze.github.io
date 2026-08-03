@@ -59,6 +59,6 @@ Teaching
 
 CV PDF
 ======
-<embed src="{{ base_path }}/files/CV.pdf#toolbar=1&navpanes=0" type="application/pdf" width="100%" height="560" style="height: 56vh; max-height: 560px; min-height: 420px;">
+<embed src="{{ base_path }}/files/cv.pdf#toolbar=1&navpanes=0" type="application/pdf" width="100%" height="560" style="height: 56vh; max-height: 560px; min-height: 420px;">
 
-<p>If the preview does not load correctly in your browser, open <a href="https://arthurliyaze.github.io/files/CV.pdf" target="_blank" rel="noopener">the PDF directly</a>.</p>
+<p>If the preview does not load correctly in your browser, open <a href="https://arthurliyaze.github.io/files/cv.pdf" target="_blank" rel="noopener">the PDF directly</a>.</p>
