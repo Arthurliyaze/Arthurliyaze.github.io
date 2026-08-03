@@ -1,0 +1,115 @@
+\documentclass[11pt, letterpaper]{article}
+
+\usepackage[margin=1in, top=0.75in, bottom=0.75in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{parskip}
+\usepackage{titlesec}
+\usepackage{fontenc}
+
+% Hyperlink styling
+\hypersetup{
+    colorlinks=true,
+    urlcolor=black,
+    linkcolor=black
+}
+
+% Section formatting: small caps with rule below
+\titleformat{\section}
+  {\scshape\large}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+% No paragraph indent
+\setlength{\parindent}{0pt}
+
+% Compact list settings
+\setlist[itemize]{leftmargin=1.5em, itemsep=2pt, topsep=2pt, parsep=0pt}
+
+%------------------------------------------------------------
+\begin{document}
+
+%--- Header --------------------------------------------------
+{\huge \textbf{Yaze (Arthur) Li}} \hfill +1-6725588667 \\
+Calgary, AB T3E 7M8 \hfill
+  [\href{https://www.linkedin.com/in/yaze-li-6b436a228}{LinkedIn}]
+  [\href{https://github.com/Arthurliyaze}{GitHub}] \\
+\href{https://arthurliyaze.github.io}{arthurliyaze.github.io} \hfill
+  \href{mailto:arthurliyaze@gmail.com}{arthurliyaze@gmail.com}
+
+%--- Education -----------------------------------------------
+\section{Education}
+
+\textbullet\,\textbf{University of Arkansas} \hfill \textit{August 2023} \\
+\textit{PhD, Electrical Engineering} \hfill Fayetteville, AR \\
+Thesis: Achieving High Renewable Energy Integration in Smart Grids with Machine Learning
+
+\textbullet\,\textbf{Tsinghua University} \hfill \textit{July 2017} \\
+\textit{BS, Electrical, Electronics and Communication Engineering} \hfill Beijing, China
+
+%--- Skills --------------------------------------------------
+\section{Skills}
+
+\begin{itemize}[label=\textbullet]
+  \item \textbf{Programming Languages}: Python, MATLAB, R, C, MySQL
+  \item \textbf{Machine Learning Frameworks}: Tensorflow, PyTorch, NumPy, Pandas, Stable Baselines
+  \item \textbf{Engineering Tools}: Simulink, PSS/E, TARA, ASPEN OneLiner, OPAL-RT, LabVIEW, \LaTeX, AMPL
+  \item \textbf{Electrical Engineering Skills}: Power flow, State estimation, Short circuit analysis, SCADA system
+\end{itemize}
+
+%--- Experience ----------------------------------------------
+\section{Experience}
+
+\textbullet\,\textbf{Manager, Power System Engineering} \hfill \textit{Aug 2025 -- Present} \\
+\textit{E Source} \hfill Calgary, AB
+\begin{itemize}
+  \item Lead PJM M-3 Do-No-Harm (DNH) Studies and develop automation tools via the TARAViewer API.
+  \item Lead MISO Affected System Studies and Replacement/Surplus Interconnection Studies for generation interconnection projects.
+  \item Performed PSS\textregistered E Model Quality Testing (MQT) for NYISO projects per EMT Modeling Guideline (UG28).
+  \item Led steady state study team and maintained automation tools for wind, solar, and BESS projects in Texas.
+\end{itemize}
+
+\textbullet\,\textbf{Power System Engineer} \hfill \textit{Aug 2024 -- Aug 2025} \\
+\textit{CF Power Ltd.\ -- an E Source Company} \hfill Calgary, AB
+\begin{itemize}
+  \item Led steady state team; performed ERCOT interconnection studies (power flow, stability, VRT) using PSS/E, TARA, and ASPEN OneLiner.
+  \item Supported PJM RTEP 2029 case build and conducted dynamic studies for TC1/TC2 cluster projects.
+  \item Conducted PJM Cluster Study including model development, case build, and transient stability analysis.
+  \item Developed PSS/E automation tool and performed transient stability study for AESO Cluster Study.
+\end{itemize}
+
+\textbullet\,\textbf{Graduate Assistant} \hfill \textit{August 2017 -- July 2023} \\
+\textit{University of Arkansas (SEEDS \& CITES)} \hfill Fayetteville, AR
+\begin{itemize}
+  \item Developed DP and DDPG-based scheduling algorithms for battery-assisted PV systems, reducing costs by 29.3\% over ten years. [\href{https://ieeexplore.ieee.org/document/9001583}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+  \item Proposed a MEC scheduling framework for distribution networks with renewables using Pandapower and Stable Baselines. [\href{https://ieeexplore.ieee.org/document/11045963}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+  \item Developed cyberattack detection algorithms (DQN, dynamic watermarking) for smart grids with 50 ms detection delay. [\href{https://www.sciencedirect.com/science/article/pii/S0142061522003404}{Journal}][\href{https://ieeexplore.ieee.org/document/10297604}{Journal}]
+\end{itemize}
+
+%--- Publications --------------------------------------------
+\section{Publications [\href{https://scholar.google.com/citations?view_op=list_works&hl=en&user=WdrLhUkAAAAJ&sortby=pubdate}{google scholar link}]}
+
+\textbullet\,\textbf{Y. Li} and J. Wu, ``Optimum design of battery-assisted photo-voltaic energy system for a commercial application,'' in \textit{Power \& Energy Society General Meeting (PESGM)}. IEEE, 2019. [\href{https://ieeexplore.ieee.org/document/9001583}{Conference}][\href{https://github.com/Arthurliyaze}{GitHub}]
+
+\textbullet\,\textbf{Y. Li} and J. Wu, ``Optimum integration of solar energy with battery energy storage systems,'' \textit{IEEE Transactions on Engineering Management}, 2020. [\href{https://ieeexplore.ieee.org/document/9001583}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+
+\textbullet\,S. Nath, \textbf{Y. Li}, J. Wu, and P. Fan, ``Multi-user multi-channel computation offloading and resource allocation for mobile edge computing,'' in \textit{ICC 2020--2020 IEEE International Conference on Communications (ICC)}. IEEE, 2020, pp. 1--6. [\href{https://ieeexplore.ieee.org/document/9149263}{Conference}]
+
+\textbullet\,\textbf{Y. Li} and J. Wu, ``Low latency cyberattack detection in smart grids with deep reinforcement learning,'' \textit{International Journal of Electrical Power \& Energy Systems}, vol. 142, p. 108265, 2022. [\href{https://www.sciencedirect.com/science/article/pii/S0142061522003404}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+
+\textbullet\,\textbf{Y. Li}, N. Lin, J. Wu, Y. Pan and Y. Zhao, ``Low Latency Attack Detection with Dynamic Watermarking for Grid-Connected Photovoltaic Systems,'' in \textit{IEEE Journal of Emerging and Selected Topics in Industrial Electronics}, doi: 10.1109/JESTIE.2023.3327051. [\href{https://ieeexplore.ieee.org/document/10297604}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+
+\textbullet\,\textbf{Y. Li}, J. Wu and Y. Pan, ``Deep Reinforcement Learning for Online Scheduling of Photovoltaic Systems with Battery Energy Storage Systems,'' in \textit{Intelligent and Converged Networks}, vol. 5, no. 1, pp. 28--41, March 2024, doi: 10.23919/ICN.2024.0003. [\href{https://ieeexplore.ieee.org/document/10480234}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+
+\textbullet\,\textbf{Y. Li}, J. Wu and Y. Pan, ``Optimum Scheduling of Truck-Based Mobile Energy Couriers (MEC) Using Deep Deterministic Policy Gradient,'' in \textit{Intelligent and Converged Networks}, vol. 6, no. 3, pp. 195--208, September 2025, doi: 10.23919/ICN.2025.0016. [\href{https://ieeexplore.ieee.org/document/11045963}{Journal}][\href{https://github.com/Arthurliyaze}{GitHub}]
+
+%--- Research Interest ---------------------------------------
+\section{Research Interest}
+
+Power System analysis, Detection and Estimation, Renewable Energy Systems
+
+\end{document}
